@@ -1,6 +1,3 @@
-# Capstone-1---JCAI
-Capstone Module 1 - JCAI
-
 # 🚗 Rental Mobil Management System
 
 Sistem ini adalah aplikasi **console-based** untuk mengelola bisnis rental mobil.  
